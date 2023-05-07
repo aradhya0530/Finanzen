@@ -6,6 +6,9 @@ For this I have created a website which provides all the contents and resources 
 Contents of Site
 
 The primary and most important features of our website are as follows: 1. We have a special page built where users may log in with their own unique user IDs in order to save their data on how much they have previously studied and which tests or tutorials are now in progress.
+2. For the comfort and flexibility of the students' preferences, we have a Home Page with a variety of themes (all related to finance, as our website's name suggests).
+3. We offer a variety of lessons on each topic, which helps users research and discover new information about the corresponding subjects.
+4. 
 
 
 
